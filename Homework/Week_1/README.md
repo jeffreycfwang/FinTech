@@ -35,10 +35,12 @@
 ## Landscape:
 
 * What domain of the financial industry is the company in?
-    * FinTech, Blockchain, Cryptocurrency Exchange
+    * FinTech
+    * Blockchain
+    * Cryptocurrency Exchange
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
-    * 
+    * Over the past 5-10 years, effort has been made to imporve both the efficiency and security of crypto exchanges and storeage.
 
 * What are the other major companies in this domain?
     * CoinFLEX
@@ -62,14 +64,21 @@
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-    * 
+    * Kraken already offers a variety of advance investing options such as margin trading and staking coins at Kraken. Therefore in my opinion Kraken should find a way to lower their transactional fees to gain more market share.
 
 * Why do you think that offering this product or service would benefit the company?
-    * 
+    * By lowering their transactional fees along with keeping all the current securities, features, and ease of use, Kraken would gain even more users than they currently have.
  
 * What technologies would this additional product or service utilize?
-    * 
+    * Krakens highest cost most likely comes from the offline cold storage with high security, plus the encription of contact info. If there is a way to automate the security features, robot security guards etc., I believe they could cut cost dramatically.
 
-* Why are these technologies appropriate for your solution?
-    * 
 
+
+
+
+
+
+
+https://craft.co/kraken
+https://www.crunchbase.com/organization/kraken
+https://www.forbes.com/advisor/investing/kraken-review/
