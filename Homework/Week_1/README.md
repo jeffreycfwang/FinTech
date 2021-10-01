@@ -10,8 +10,9 @@
     * Jesse Powell (CEO & Founder)
 * How did the idea for the company (or project) come about?
     * Founder Jessee Powell started working on the idea after visiting crypto exchange Mt. Gox in 2011 after the company's security breach.
+    
 * How is the company funded? How much funding have they received?
-    * Kraken is funded by 11 investors. Eterna Capital and G1 Ventures are the most recent investors. Kraken has made 3 investments. Their most recent investment was on Aug 3, 2020, when Wyre raised $3M. Kraken has acquired 10 organizations. Their most recent acquisition was Bit Trade on Jan 14, 2020. Kraken is in talks to raise new capital in a move that could see the company’s valuation soar to above $10 billion.
+    * Kraken is funded by 11 investors. In total, Kraken has raised $126.6M. Kraken's latest valuation is reported to be $4B. Eterna Capital and G1 Ventures are the most recent investors. Kraken is in talks to raise new capital in a move that could see the company’s valuation soar to above $10 billion.
 
 
 
@@ -19,10 +20,13 @@
 
 * What specific financial problem is the company or project trying to solve?
     * Kraken is a marketplace for digital assets where buyers, sellers, traders and speculators come together to exchange cryptocurrencies like Bitcoin, Ethereum, Litecoin and Ripple against national currencies like USD, EUR, CAD and JPY. 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+
+* Who is the company's intended customer?  Is there any information about the market size of this set of customers? What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+    * Individuals & FInancial Institutions
+    *
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+    * Kraken has made 3 investments. Their most recent investment was on Aug 3, 2020, when Wyre raised $3M. Kraken has acquired 10 organizations. Their most recent acquisition was Bit Trade on Jan 14, 2020.
 
 
 ## Landscape:
